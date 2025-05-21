@@ -1,56 +1,137 @@
-{
-	"Language": "en",
-	"PreKey": "",
-	"AutoUpdate": true,
-	"MainColor": "#9900FF",
-	"MainName": "[ FCA-JOY ]",
-	"Uptime": false,
-	"Config": "default",
-	"DevMode": false,
-	"Login2Fa": false,
-	"AutoLogin": false,
-	"BroadCast": true,
-	"AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Using getUserInfoV2",
-	"EncryptFeature": true,
-	"ResetDataLogin": false,
-	"AutoInstallNode": false,
-	"AntiSendAppState": true,
-	"AutoRestartMinutes": 0,
-	"RestartMQTT_Minutes": 0,
-	"Websocket_Extension": {
-		"Status": false,
-		"ResetData": false,
-		"AppState_Path": "appstate.json"
-	},
-	"HTML": {
-		"HTML": true,
-		"UserName": "Guest",
-		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
-	},
-	"AntiGetInfo": {
-		"Database_Type": "default",
-		"AntiGetThreadInfo": true,
-		"AntiGetUserInfo": true
-	},
-	"Stable_Version": {
-		"Accept": false,
-		"Version": ""
-	},
-	"CheckPointBypass": {
-		"956": {
-			"Allow": false,
-			"Difficult": "Easy",
-			"Notification": "Turn on with AutoLogin!"
-		}
-	},
-	"AntiStuckAndMemoryLeak": {
-		"AutoRestart": {
-			"Use": true,
-			"Explain": "When this feature is turned on, the system will continuously check and confirm that if memory usage reaches 90%, it will automatically restart to avoid freezing or stopping."
-		},
-		"LogFile": {
-			"Use": false,
-			"Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
-		}
-	}
-}
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100023285052008%22%3A%227eOCbB1S%22%2C%22100001944201548%22%3A%22qEoMpVdu%22%2C%22100062098429992%22%3A%22979EeFbt%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "datr",
+        "value": "lOD3ZyTVZ5RP_8CFokYSDA6e",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "sb",
+        "value": "lOD3Z7nuUAb0mlsxC96ZMPc3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B699x384x2.8125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.8125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.8125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "wd",
+        "value": "384x832",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100062098429992",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.700Z",
+        "lastAccessed": "2025-05-21T10:32:10.700Z"
+    },
+    {
+        "key": "fr",
+        "value": "1sCkahc3vyiQUtq9l.AWdEA2GZG24UQsPVnC7JekUxT-3jWMKExigX9OgpyUhgykU8vx0.Bn_QwX..AAA.0.0.BoLaG5.AWf-h5c-Bi0RM3SQ6NXwvglxowo",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.701Z",
+        "lastAccessed": "2025-05-21T10:32:10.701Z"
+    },
+    {
+        "key": "xs",
+        "value": "7%3AJnHAo64s0e-SJg%3A2%3A1747820986%3A-1%3A5124",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.701Z",
+        "lastAccessed": "2025-05-21T10:32:10.701Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.701Z",
+        "lastAccessed": "2025-05-21T10:32:10.701Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100436922%3BT%3A29130349",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.701Z",
+        "lastAccessed": "2025-05-21T10:32:10.701Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2824%3Btimestamp%3A1747820991",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:32:10.701Z",
+        "lastAccessed": "2025-05-21T10:32:10.701Z"
+    }
+	    ]
